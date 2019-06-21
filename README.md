@@ -11,13 +11,13 @@ Tiddlyshow contains the following features
 # Install
 
 * Method i
-** Goto https://github.com/kookma/Tiddlyshow
-** Download tiddlyshow_plugin.tid
-** Drag and drop the tiddlyshow_plugin.tid into your wiki
-** Save and reload
+* Goto https://github.com/kookma/Tiddlyshow
+	* Download tiddlyshow_plugin.tid
+	* Drag and drop the tiddlyshow_plugin.tid into your wiki
+	* Save and reload
 * Method ii
-** Drag and drop $:/plugins/kookma/tiddlyshow into your wiki
-** Save and reload
+	* Drag and drop $:/plugins/kookma/tiddlyshow into your wiki
+	* Save and reload
 
 # Beta release
 This is release 3.0 beta. Please send your feedbacks
