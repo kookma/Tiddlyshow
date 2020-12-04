@@ -1,3 +1,9 @@
+# Important NOTE
+
+Tiddlyshow has been renamed to Tamasha. This repo was archived on Dec 2020. For new features, and new releases see https://github.com/kookma/TW-Tamasha
+
+
+
 # Tiddlyshow
 This is a small application of Tiddlywiki for presentation and slideshow. It can also be used as a plugin.
 
