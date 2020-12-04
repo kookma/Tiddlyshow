@@ -1,6 +1,8 @@
 # Important NOTE
 
-Tiddlyshow has been renamed to Tamasha. This repo was archived on Dec 2020. For new features, and new releases see https://github.com/kookma/TW-Tamasha
+Tiddlyshow has been renamed to Tamasha. This repo was **archived on Dec 2020**.
+
+### For new features, and new releases see https://github.com/kookma/TW-Tamasha
 
 
 
